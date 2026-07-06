@@ -1,4 +1,4 @@
-# NovaCell — Django Mobile Shop
+# JENI MOBILES — Django Mobile Shop
 
 A complete e-commerce website for a mobile phone shop, built with Django.
 
